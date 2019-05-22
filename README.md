@@ -6,7 +6,7 @@ Object dection using YOLOv3, OpenCV and robot trajectory  in a virtual environme
 
 Get this project using 
 ```
-git clone: https://github.com/pxthanh98/robotics.git
+git clone: https://github.com/motmi98/Robot-2019.git
 ```
 ### Requirements
 System
