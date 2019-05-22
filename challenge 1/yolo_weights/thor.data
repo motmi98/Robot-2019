@@ -1,0 +1,8 @@
+classes= 57
+train  = /home/pjreddie/data/dan/detection_data/train.txt
+#valid  = coco_testdev
+valid = data/coco_val_5k.list
+names = darknet_object_detection/yolo_weights/thor.names
+backup = /home/pjreddie/backup/
+eval=coco
+
